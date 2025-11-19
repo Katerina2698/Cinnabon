@@ -1,7 +1,7 @@
 /* Стилі для сторінки про сінабони */
 
 body {
-    background-image: url('./86bd6e184792c5e29be52fe23434cbe8.jpg');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Classic_roll.jpg/500px-Classic_roll.jpg');
     font-family: 'Segoe UI', Arial, sans-serif;
     color: #5c3a1a;
     margin: 0;
@@ -65,3 +65,4 @@ body {
     background: #7c3f17;
 
 }
+
