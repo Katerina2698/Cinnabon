@@ -1,7 +1,7 @@
 /* Стилі для сторінки про сінабони */
 
 body {
-    background-image: url('./картинки/86bd6e184792c5e29be52fe23434cbe8.jpg');
+    background-image: url('./86bd6e184792c5e29be52fe23434cbe8.jpg');
     font-family: 'Segoe UI', Arial, sans-serif;
     color: #5c3a1a;
     margin: 0;
@@ -63,4 +63,5 @@ body {
 
 .button:hover {
     background: #7c3f17;
+
 }
